@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mattp0/learn-typescript/issues"
   },
-  "homepage": "https://github.com/mattp0/learn-typescript#readme"
+  "homepage": "https://github.com/mattp0/learn-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
