@@ -13,6 +13,4 @@ jobs:
         with:
           node-version: 16.x
       - run: npm ci
-      - run: npm run build
-      - run: npm run format-check
-      - run: jest
+      - run: test
